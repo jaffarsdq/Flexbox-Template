@@ -1,0 +1,324 @@
+body{
+    border-top: 15px solid black;
+     
+}
+*{
+    padding: 0%;
+    margin: 0.6%;
+
+}
+
+.parent1{
+    display: flex;
+    justify-content:space-between;
+    margin-left: px;
+    
+
+
+}
+
+.parent2{
+    display:flex;
+    justify-content: center;
+   
+}
+.parent3{
+    display:flex;
+    justify-content: center;
+    
+}
+.head1{
+    background-color: rgba(128, 128, 128, 0.281);
+    padding: 1%;
+    margin: 6%;
+}
+.parent4{
+    display: flex;
+    
+}
+
+.child1{   
+    flex:0.3;
+    display:flex;
+    justify-content: flex-end;
+}
+.child2{  flex:0.3;
+    display:flex;
+    
+ 
+}
+
+.child3{  flex:0.3;
+    display:flex;
+    justify-content: flex-start;
+  
+}
+.parent5{
+    display: flex;
+    
+}
+
+.child3{   
+    flex:0.3;
+    display:flex;
+    justify-content: flex-end;
+}
+.child4{  flex:0.7;
+    display:flex;
+    justify-content: flex-start;
+    margin-left: -0.5%;
+ 
+}
+.parent6{
+    display: flex;
+   
+    
+}
+
+.child5{   
+    flex:1;
+    display:flex;
+    margin-left:31.5%;
+
+}
+.parent7{
+    display: flex;
+    padding: 2%;
+    margin-left: -10px;
+    justify-content:center;
+    
+}
+
+.child6{   
+    flex:0.3;
+    display:flex;
+    justify-content: flex-end;
+  
+
+}
+.child7{  flex:0.3;
+    display:flex;
+    align-self: center;
+    margin-left: 1%;
+    
+ 
+}
+.child6 button{
+    padding: 2%;
+}
+.head2{
+    display: flex;
+}
+.parent8{
+    display: flex;
+    justify-content:flex-start;
+    flex: 0.5;
+    margin-left: 25px;
+    gap: 5px;
+   
+}
+.child8{
+    flex: 0.4;
+    background-color: lightgrey;
+}
+
+.child9{
+    flex: 0.3;
+    background-color: lightgrey;
+}
+.child10{
+    flex: 0.3;
+    background-color: lightgrey;
+}
+.parent9{
+    display: flex;
+    justify-content: flex-end;
+    flex: 0.5;
+}
+.child11{
+    flex: 0.2;
+}
+.head3{
+    background-color: rgba(172, 172, 172, 0.356);
+    margin-top: -1.8%;
+}
+.parent10{
+    display: flex;
+    justify-content: space-between;
+}
+.son1{
+    display: flex;
+    justify-content: flex-start;
+    flex: 0.75;
+}
+.child12{
+    /* display: flex; */
+    flex: 0.3;
+   
+}
+.child13{
+    /* display: flex; */
+    flex: 0.5;
+    margin-left: -90px;
+    
+}
+.son2{
+    display: flex;
+    flex: 0.5;
+    justify-content: flex-end;
+}
+.child14{
+    flex: 0.55;   
+}
+.parent12{
+    display: flex;
+    margin: 0%;
+    justify-content: space-between;
+
+}
+.child16{
+    flex: 0.85;
+}
+.child17{
+    flex: 0.13;
+    align-self: center;
+
+}
+.parent14{
+    display: flex;
+    justify-content: space-around;
+}
+.child19{
+    flex: 1;
+    font-weight: 0%;
+}
+.parent15{
+    display: flex;
+}
+.parent16{
+    display: flex;
+
+}
+.container1 {
+    border: 2px solid #dedede;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    flex: 0.8;
+  }
+.parent17{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 01%;
+}
+.parent18{
+    display: flex;
+    justify-content: flex-end;
+
+}
+.container2 {
+    border: 2px solid #dedede;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    flex: 0.8;
+   
+  }
+  .parent19{
+    display: flex;
+
+}
+.parent20{
+    display: flex;
+
+}
+.container3 {
+    border: 2px solid #dedede;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    flex: 0.8;
+  }
+  .parent22{
+    display: flex;
+    justify-content: flex-end;
+
+}
+.container4 {
+    border: 2px solid #dedede;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    flex: 0.8;
+   
+  }
+  .parent21{
+    display: flex;
+    justify-content: flex-end;
+
+}
+.parent23{
+    display: flex;
+}
+.parent24{
+    display: flex;
+
+}
+.container5 {
+    border: 2px solid #dedede;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    flex: 0.8;
+  }
+.parent25{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 01%;
+}
+.parent26{
+    display: flex;
+    justify-content: flex-end;
+
+}
+.container6 {
+    border: 2px solid #dedede;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    flex: 0.8;
+   
+  }
+ 
+.child20{
+    flex: 0.5;
+    font-weight: 0%;
+}
+.parent27{
+    display: flex;
+    justify-content: space-around;
+}
+.start{
+    border: 1px solid black;
+    margin-top:  -1.5px;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+.parent111{
+    display: flex;
+    justify-content: space-between;
+}
+.c1{
+    flex: 0.4;
+}
+.c2{
+    flex: 0.2;
+}
+
+   /* Flexbox Template completed */
